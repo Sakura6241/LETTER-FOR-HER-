@@ -385,7 +385,7 @@ font-size: 4.4rem;
   opacity: 0;
   color: #f0a3be;
   animation-name: fadeInOut;
-  animation-delay: 295s;
+  animation-delay: 287s;
   animation-duration: 12s;
 }
 
@@ -398,7 +398,7 @@ font-size: 4.4rem;
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 303s;
+  animation-delay: 295s;
   animation-duration: 12s;
 }
 
@@ -410,7 +410,7 @@ font-size: 3rem;
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 311s;
+  animation-delay: 303s;
   animation-duration: 12s;
 }
 
@@ -473,7 +473,7 @@ font-size: 3rem;
   opacity: 0;
   color: #f0eba3;
   animation-name: bottomFadeOut;
-  animation-delay: 319s;
+  animation-delay: 311s;
   animation-duration: 50s;
 }
 
@@ -565,4 +565,5 @@ font-size: 3rem;
   100% {
     opacity: 0%;
   }
+
 }
